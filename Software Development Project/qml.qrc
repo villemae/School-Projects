@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GraphWindow.qml</file>
+        <file>ButtonRow.qml</file>
+        <file>DateSelection.qml</file>
+        <file>Icons/energy.png</file>
+        <file>Icons/nuclear.png</file>
+        <file>Icons/weather.png</file>
+        <file>Icons/windmill.png</file>
+        <file>Icons/thermometer.png</file>
+        <file>Icons/tornado.png</file>
+        <file>Icons/battery.png</file>
+        <file>Icons/bulb.png</file>
+        <file>Icons/hydropower.png</file>
+        <file>SideBar.qml</file>
+        <file>Icons/icon-calendar.png</file>
+        <file>Icons/clock.png</file>
+        <file>Icons/24clock.png</file>
+    </qresource>
+</RCC>
