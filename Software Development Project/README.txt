@@ -3,7 +3,7 @@ fingrid.hh
 fingrid.cpp
 model.hh
 model.cpp
-I also contibuted a lot in following files:
+I also contributed a lot in the following files:
 view.hh
 view.cpp
 
