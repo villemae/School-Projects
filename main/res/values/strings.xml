@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bongaa 100</string>
+    <string name="title_list">Havaintolista</string>
+    <string name="title_add">Lisää havainto</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_edit">Muokkaa havaintoa</string>
+    <string name="title_details">Havainto</string>
+    <string name="hint_species">Lintulaji</string>
+    <string name="hint_date">Päivämäärä (pp.kk.vvvv)</string>
+    <string name="hint_location">Havaintopaikka</string>
+    <string name="hint_search">Hae listasta...</string>
+    <string name="button_add">Lisää</string>
+    <string name="add_info">Lisää uusi lintuhavainto</string>
+    <string name="visual_checkbox">Näköhavainto</string>
+    <string name="auditory_checkbx">Kuulohavainto</string>
+    <string name="bird_amount">Lintuja havaittu</string>
+    <string name="hint_notes">Muistiinpanot</string>
+    <string name="edit_button">Muokkaa</string>
+    <string name="delete_button">Poista havainto</string>
+    <string name="ready_button">Valmis</string>
+</resources>
