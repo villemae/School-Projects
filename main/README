@@ -1,0 +1,7 @@
+Mobile Programming Project, spring 2022
+
+This folder contains some source code files for mobile programming course project. The app was developed to be a "bird sighting diary" inspired by "Bongaa 100" challenge, which challenged people in birdwatching and to recognise as many bird species as possible. The app turned out to be pretty nice and I actually used it to mark down my bird sightings that spring.
+
+The app was written using Android Studio as IDE, Gradle as building tool and Kotlin as main programming language. Google Firestore was used as a cloud-based database to save all the bird sightings data.
+
+This source code is just meant to be an overview of the project, NOT to offer a fully working mobile app since it's lacking many important files for building etc. All the Gradle dependencies and Google Firestore stuff for example are missing from this Github folder.
