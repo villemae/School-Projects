@@ -6,4 +6,4 @@ This repo includes following projects:
 - Tetris, spring 2020
 - Nysse, autumn 2020
 - Software Developing course project, spring 2021
-- Mobile Programming course project spring 2022
+- Mobile Programming course project spring, 2022
