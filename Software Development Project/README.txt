@@ -1,4 +1,4 @@
-This project was part of the Software Development course in Tampere university. The project was done in groups of four people. THIS PROGRAM ISN'T FULLY MADE BY ME. I was mainly responsible about backend. Next files were my responsibility:
+This project was part of the Software Development course in Tampere university. The project was done in groups of four people. THIS PROGRAM ISN'T FULLY MADE BY ME. I was mainly responsible for the backend. Next files were my responsibility:
 fingrid.hh
 fingrid.cpp
 model.hh
